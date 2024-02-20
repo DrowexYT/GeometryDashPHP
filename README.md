@@ -1,2 +1,3 @@
 # GeometryDashPHP
-Naprosto dobrovolně dělaný Geometry Dash v PHP
+Školní projekt
+Napodobenina hry Geometry Dash v PHP.
