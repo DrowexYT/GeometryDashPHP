@@ -1,3 +1,3 @@
 # GeometryDashPHP
-Školní projekt
+# Školní projekt
 Napodobenina hry Geometry Dash v PHP.
